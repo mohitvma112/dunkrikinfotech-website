@@ -17,10 +17,12 @@ export default function About() {
           <span className="section-label">About Us</span>
           <h2 className="section-title">Your partner in digital innovation</h2>
           <p>
-            Dunkirk Infotech is a technology company dedicated to helping businesses
-            harness the power of modern software and cloud infrastructure. We combine
-            technical expertise with a deep understanding of business needs to deliver
-            solutions that create real impact.
+            Dunkrik Infotech PVT.LTD is a premier IT solutions provider dedicated to
+building robust digital infrastructures and ensuring seamless business
+continuity. From the core of your network to the devices in your employees'
+hands, we provide end-to-end technical expertise. We specialize in transforming
+complex IT challenges into scalable, secure, and efficient systems, allowing you
+to focus on what you do best—growing your business.
           </p>
           <p>
             Our team of experienced developers, designers, and consultants work
