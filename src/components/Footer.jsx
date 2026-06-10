@@ -1,3 +1,4 @@
+import Logo from './Logo'
 import './Footer.css'
 
 export default function Footer() {
@@ -7,12 +8,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="container footer-inner">
         <div className="footer-brand">
-          <a href="#" className="logo">
-            <span className="logo-icon">D</span>
-            <span className="logo-text">
-              Dunkirk <strong>Infotech</strong>
-            </span>
-          </a>
+          <Logo className="footer-logo" />
           <p>Empowering businesses with innovative technology solutions.</p>
         </div>
         <div className="footer-links">

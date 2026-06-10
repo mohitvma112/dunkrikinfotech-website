@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Logo from './Logo'
 import './Navbar.css'
 
 const navLinks = [
@@ -14,12 +15,7 @@ export default function Navbar() {
   return (
     <header className="navbar">
       <div className="container navbar-inner">
-        <a href="#" className="logo">
-          <span className="logo-icon">D</span>
-          <span className="logo-text">
-            Dunkirk <strong>Infotech</strong>
-          </span>
-        </a>
+        <Logo />
 
         <nav className={`nav-links ${menuOpen ? 'open' : ''}`}>
           {navLinks.map((link) => (

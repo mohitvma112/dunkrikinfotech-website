@@ -37,7 +37,7 @@ export default function Contact() {
               <span className="detail-icon">📞</span>
               <div>
                 <strong>Phone</strong>
-                <a href="tel:+918510944803">+91 85109 44803</a>
+                <a href="tel:+918082504803">+91 80825 04803</a>
               </div>
             </li>
             <li>

@@ -8,7 +8,7 @@ export default function About() {
           <div className="about-image">
             <div className="about-pattern" aria-hidden="true" />
             <div className="about-badge">
-              <strong>Since 2019</strong>
+              <strong>Since 2026</strong>
               <span>Delivering excellence</span>
             </div>
           </div>
